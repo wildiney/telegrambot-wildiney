@@ -1,0 +1,6 @@
+node_modules
+src/certs
+.env
+.env.local
+.env.production
+.pem
