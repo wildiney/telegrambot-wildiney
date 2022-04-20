@@ -5,3 +5,9 @@ src/certs
 .env.local
 .env.production
 .pem
+
+.vscode
+_old
+venv
+__pycache__
+telegrambot/credentials.py
